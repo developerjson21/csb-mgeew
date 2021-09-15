@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://developerjson21.github.io/csb-mgeew/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://developerjson21.github.io/csb-mgeew/static/js/main.0dcec99e.chunk.js",
+    "main.js.map": "https://developerjson21.github.io/csb-mgeew/static/js/main.0dcec99e.chunk.js.map",
+    "runtime-main.js": "https://developerjson21.github.io/csb-mgeew/static/js/runtime-main.511db310.js",
+    "runtime-main.js.map": "https://developerjson21.github.io/csb-mgeew/static/js/runtime-main.511db310.js.map",
+    "static/js/2.151e32b1.chunk.js": "https://developerjson21.github.io/csb-mgeew/static/js/2.151e32b1.chunk.js",
+    "static/js/2.151e32b1.chunk.js.map": "https://developerjson21.github.io/csb-mgeew/static/js/2.151e32b1.chunk.js.map",
+    "index.html": "https://developerjson21.github.io/csb-mgeew/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://developerjson21.github.io/csb-mgeew/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.151e32b1.chunk.js.LICENSE.txt": "https://developerjson21.github.io/csb-mgeew/static/js/2.151e32b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.511db310.js",
+    "static/js/2.151e32b1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0dcec99e.chunk.js"
+  ]
+}
